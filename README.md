@@ -35,16 +35,16 @@ Technologies Used
 
 How to Run
 
-Clone the repository:
+1 - Clone the repository:
 git clone <your-repo-url>
 
-Navigate to the project folder:
+2 - Navigate to the project folder:
 cd mini_youtube_clone
 
-Get dependencies:
+3 - Get dependencies:
 flutter pub get
 
-Run on an emulator or device:
+4 - Run on an emulator or device:
 flutter run
 
 Future Improvements
@@ -54,3 +54,4 @@ Add search functionality to filter videos
 Implement favorites/watch later feature
 
 Add video details screen with a playable video player
+
