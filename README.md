@@ -33,15 +33,6 @@ Technologies Used
 12 - IconButton – Search icon in AppBar
 13 - Stack – Optional overlay for video duration
 
-Project Structure
-lib/
-├── main.dart        # Entry point
-├── home_screen.dart # Main Home Screen with ListView
-├── widgets/
-│   └── video_card.dart # Individual video card widget
-assets/
-└── images/          # Video thumbnails
-
 How to Run
 
 Clone the repository:
@@ -61,4 +52,5 @@ Future Improvements
 Integrate Firebase to store videos in the cloud
 Add search functionality to filter videos
 Implement favorites/watch later feature
+
 Add video details screen with a playable video player
