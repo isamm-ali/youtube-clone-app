@@ -37,13 +37,10 @@ How to Run
 
 1 - Clone the repository:
 git clone <your-repo-url>
-
 2 - Navigate to the project folder:
 cd mini_youtube_clone
-
 3 - Get dependencies:
 flutter pub get
-
 4 - Run on an emulator or device:
 flutter run
 
@@ -52,6 +49,6 @@ Future Improvements
 Integrate Firebase to store videos in the cloud
 Add search functionality to filter videos
 Implement favorites/watch later feature
-
 Add video details screen with a playable video player
+
 
